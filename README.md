@@ -7,15 +7,15 @@ Puedes acceder al artículo completo a través de este [enlace]()
 
 #Ejemplos:
 
-##Cursiva	
+## Cursiva	
 
 *Texto en cursiva*
 
-##Negrita	
+## Negrita	
 
 **Texto en negrita**
 
-##Saltos de línea:
+## Saltos de línea:
 
 Párrafo 1
 			
@@ -26,16 +26,16 @@ Para generar un salto de linea dentro del mismo párrafo deja dos espacios en bl
 Salto de linea  
 dentro del mismo párrafo
 			
-##Encabezados:
+## Encabezados:
 
 # Encabezado H1
 ## Encabezado H2
 ### Encabezado H3
-#### Encabezado H4
+####  Encabezado H4
 ##### Encabezado H5
 ###### Encabezado H6
 		
-##Listas
+## Listas
 
 Con cualquiera de los símbolos: -,+,*
 
@@ -46,7 +46,7 @@ Con cualquiera de los símbolos: -,+,*
 - Dr. Strange
 - Spiderman
 
-##Listas anidadadas
+## Listas anidadadas
 
 Para crear listas anidadas utiliza cuatro espacios:
 
@@ -77,7 +77,7 @@ Para crear listas anidadas utiliza cuatro espacios:
     - Avengers: Endgame (2019)
     - Spider-Man: Lejos de casa (2019)    
 
-##Listas ordenadas
+## Listas ordenadas
 
 Tenemos que escribir el número seguido de un punto.
 
@@ -108,19 +108,19 @@ Tenemos que escribir el número seguido de un punto.
     10. Avengers: Endgame (2019)
     11. Spider-Man: Lejos de casa (2019)
 	
-##Linea horizontal
+## Linea horizontal
 
 ---
 
-##Enlaces en línea
+## Enlaces en línea
 		
 Pulsa [aquí](https://www.tecnificados.com) para ir a mi blog.
 	
-##Enlaces automáticos		
+## Enlaces automáticos		
 	
 <https://www.tecnificados.com>
 	
-##Código	
+## Código	
 	
 `Select name, year from films where year > 1980`
 
@@ -131,7 +131,7 @@ from films
 where year > 1980
 ```
 
-##Imágenes
+## Imágenes
 
 ![Imagen de Ironman](https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_cut_dsk_01_1.jpg)
 		
@@ -139,7 +139,7 @@ Con texto alternativo:
 
 ![Imagen de Ironman](https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_cut_dsk_01_1.jpg "Ironman de pie mirandote fijamente")
 
-##Caracteres que Markdown interpreta 
+## Caracteres que Markdown interpreta 
 
 Esto es un asterisco \*
 
