@@ -139,6 +139,24 @@ Con texto alternativo:
 
 ![Imagen de Ironman](https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_cut_dsk_01_1.jpg "Ironman de pie mirandote fijamente")
 
+## Tablas
+
+Nombre | Películas
+-- | --
+Fase I | 6
+Fase II | 6
+Fase III | 11
+
+## Tablas con columnas alineadas
+
+Saga|Nombre | Películas
+:-- |:--: | --:
+Gemas del Infinito | Fase I | 6
+Gemas del Infinito | Fase II | 6
+Gemas del Infinito | Fase III | 11
+
+
+
 ## Caracteres que Markdown interpreta 
 
 Esto es un asterisco \*
