@@ -3,7 +3,7 @@ Guía rápida de Markdown
 
 En este documento se muestan todos los ejemplos que se han puesto en el artículo de <www.tecnificados.com>: Markdown - Guía rápida
 
-Puedes acceder al artículo completo a través de este [enlace]()
+Puedes acceder al artículo completo a través de este [enlace](https://www.tecnificados.com/2019/09/markdown-guia-rapida.html)
 
 # Ejemplos:
 
